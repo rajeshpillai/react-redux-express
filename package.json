@@ -1,5 +1,5 @@
 {
-  "name": "chapter6_4",
+  "name": "express_react",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -10,7 +10,7 @@
     "build:assets": "copy index.html dist\\",
     "start:dev": "cross-env NODE_ENV=development node server/"
   },
-  "author": "Daniel Bugl <me@omnidan.net>",
+  "author": "Rajesh Pillai",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.24.0",
